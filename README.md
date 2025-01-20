@@ -1,4 +1,4 @@
 # untitled
 
 ## Screenshots
-![Example Image](images/example_image.png)
+![Read the excel data](screenshots/image1.png)
