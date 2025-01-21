@@ -12,7 +12,7 @@ try:
     df = pd.DataFrame(data)
 
     # Write the DataFrame to an Excel file (the previous code)
-    df.to_excel(file_name, index=False)
+    # df.to_excel(file_name, index=False)
 
     # Read the Excel file into a DataFrame (new code to modify)
     df_read = pd.read_excel(file_name)
