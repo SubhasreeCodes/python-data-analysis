@@ -13,7 +13,7 @@ data = {
 df = pd.DataFrame(data)
 
 # Modify an entry in the DataFrame, for example, update Bob's age
-df.loc[df['Name'] == 'Bob', 'Age'] = 32  # Change Bob's age to 30
+df.loc[df['Name'] == 'Bob', 'Age'] = 31  # Change Bob's age to 30
 
 # Write the DataFrame to an Excel file
 df.to_excel(file_name, index=False)
