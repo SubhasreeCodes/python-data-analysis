@@ -8,7 +8,7 @@ csv_path = r"C:\Users\subha\Documents\data.csv"
 # Create DataFrame from dictionary
 data = {
     'Name': ['Alice', 'Bob', 'Charlie'],
-    'Age': [25, 31, 35],
+    'Age': [25, 31, 32],
     'Salary': [50000, 60000, 70000]
 }
 df = pd.DataFrame(data)
