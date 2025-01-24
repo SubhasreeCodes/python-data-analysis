@@ -1,7 +1,7 @@
 import pandas as pd
 
 #file name = 'D:\\sales_data.xlsx'
-file_name = "C:\excel\data_py.xlsx"
+file_name = "C:\\excel\\data_py.xlsx"
 
 # Step 1: Load your Excel data
 try:
